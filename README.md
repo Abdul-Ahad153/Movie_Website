@@ -1,2 +1,15 @@
-# Movie_Website
-AA Movies is a website to watch movies, web series and anime
+# Completely built with Html5,Css3 & Javascript
+
+# Movie website
+
+# user can choose the movies from different geners
+
+# Also User Can Watch regional language movies also
+
+
+
+
+
+## Deployed Site
+
+
